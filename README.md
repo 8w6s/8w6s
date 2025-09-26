@@ -37,3 +37,5 @@
 ---
 
 またね 🌸
+
+<img src="./nice.svg" width="100%" height="400px" style="display: block; margin: 0 auto;" />
